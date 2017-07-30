@@ -8,12 +8,12 @@ Pesos(Distâncias): Em Quilômetros(km)<br>
 <p>As arestas/pesos foram obtidas com auxílio da ferramenta <i><b>Google Maps</b>(https://www.google.com.br/maps/)</i> onde, para cada capital Brasileira, buscou-se (na ferramenta) a rota mais curta até as capitais dos estados adjacentes.</p>
 
 Ex.:<br>
-Rio Branco-AC;Manaus-AM;1399;
-Rio de Janeiro-RJ;São Paulo-SP;447;
-Brasília-DF;Belo Horizonte-MG;734;
-Macapá-AP;Belém-PA;3290;
-...
-
+Rio Branco-AC;Manaus-AM;1399;<br>
+Rio de Janeiro-RJ;São Paulo-SP;447;<br>
+Brasília-DF;Belo Horizonte-MG;734;<br>
+Macapá-AP;Belém-PA;3290;<br>
+...<br>
+<br>
 <b><u>Observações:</b></u><br>
 1 - Cada nó é identificado pelo nome da capital seguido da sigla do estado: <CAPT>-<UF><br>
 2 - Os nomes contem acentos, cedilhas e espaçamentos.<br>
@@ -28,7 +28,7 @@ Nodes (Capitals): 27 <br>
 Edges: 44 <br>
 Weights (Distances): In Kilometers (km) <br>
 
-<i><b>Values obtained from:</b> Google Maps </ b> (https://www.google.com/maps/) </i> <br>
+<i><b>Values obtained from:</b> Google Maps </b> (https://www.google.com/maps/) </i> <br>
 
 Ex .: <br>
 Rio Branco-AC; Manaus-AM; 1399;<br>
